@@ -1,2 +1,2 @@
 word = "hello"
-word[0] = "j"
+# word[0] = "j"
